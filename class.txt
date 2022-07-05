@@ -17,6 +17,9 @@ $rm - deletes the file
 
 git add . - adds all the files in the folder to git
 
+use emojis
+
+git commit garda --m diyera message lekhnuparcha
 
 
 

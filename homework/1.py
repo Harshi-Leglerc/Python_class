@@ -1,0 +1,7 @@
+print ("\\' - ' (b)")
+print ("\\\\' - \\ (b)")
+print ("\\\\\\' - \\'")
+print ("\n")
+print ("This is \\\\ double backslash")
+print ("This is /\\/\\/\\/\\/\\ mountain")
+print ("he is \t happy.")
